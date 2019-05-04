@@ -1,0 +1,10 @@
+C:\Users\okka\Desktop\project\console_airway\console_airway\bin\Debug\console_airway.exe
+C:\Users\okka\Desktop\project\console_airway\console_airway\bin\Debug\console_airway.pdb
+C:\Users\okka\Desktop\project\console_airway\console_airway\obj\x86\Debug\console_airway.exe
+C:\Users\okka\Desktop\project\console_airway\console_airway\obj\x86\Debug\console_airway.pdb
+C:\Users\okka\Desktop\console.project\console_airway\console_airway\obj\x86\Debug\console_airway.exe
+C:\Users\okka\Desktop\console.project\console_airway\console_airway\obj\x86\Debug\console_airway.pdb
+C:\Users\okka\Desktop\CS projcet\console_airway\console_airway\obj\x86\Debug\console_airway.exe
+C:\Users\okka\Desktop\CS projcet\console_airway\console_airway\obj\x86\Debug\console_airway.pdb
+F:\CS projcet\console_airway\console_airway\obj\x86\Debug\console_airway.exe
+F:\CS projcet\console_airway\console_airway\obj\x86\Debug\console_airway.pdb
